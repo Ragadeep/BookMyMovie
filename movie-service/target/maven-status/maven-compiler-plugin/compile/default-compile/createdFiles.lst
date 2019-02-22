@@ -1,0 +1,9 @@
+com\cg\bookmymovie\movie\movie\entity\Cast.class
+com\cg\bookmymovie\movie\movie\service\MovieServiceImpl.class
+com\cg\bookmymovie\movie\movie\entity\Crew.class
+com\cg\bookmymovie\movie\movie\resource\MovieResource.class
+com\cg\bookmymovie\movie\movie\service\MovieService.class
+com\cg\bookmymovie\movie\movie\exception\IllegalDateException.class
+com\cg\bookmymovie\movie\movie\entity\Movie.class
+com\cg\bookmymovie\movie\movie\MovieApplication.class
+com\cg\bookmymovie\movie\movie\repository\MovieRepository.class
